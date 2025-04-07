@@ -1,15 +1,16 @@
-# 🩺 Liver Patient Outcome Prediction – ML Classification
+# 🩺 Liver Disease Outcome Prediction
 
-## 📌 Objective:
-To predict whether a patient has liver disease based on health-related features using machine learning classification models.
+## 🧠 Objective
+To classify whether a patient has liver disease using machine learning models.
 
-## 🔧 Tools & Technologies:
-- Python | Pandas | NumPy | Seaborn | Matplotlib
+## 🔧 Tools
 - Logistic Regression, Random Forest
-- Hyperparameter Tuning, Cross-Validation
+- Feature Engineering
+- Hyperparameter Tuning
+- Cross-Validation
 
-## 📊 Outcome:
-Achieved >85% accuracy after model optimization. Data-driven insights presented for clinical decision-making.
+## ✅ Outcome
+85% accuracy with clean insights. Provided useful recommendations for patient risk screening.
 
-## 🌱 Future Scope:
-Integrating with LLM-based patient recommendation systems as part of my Generative AI training.
+## 🔧 Tech Stack
+Python, Pandas, Scikit-learn, Seaborn, Jupyter Notebook
